@@ -1,0 +1,47 @@
+{
+  "version": 4,
+  "name": "riseofthepenguinsgb",
+  "items": [
+    "Rise of the Penguins GB.sh",
+    "riseofthepenguinsgb"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Rise of the Penguins GB",
+    "porter": [
+      "Pwoo"
+    ],
+    "desc": "Rise of the Penguins GB - A retro Game Boy Color style adventure featuring penguins. Experience classic handheld gaming with modern conveniences, complete with authentic Game Boy aesthetics, CRT filter effects, and Steam integration.",
+    "desc_md": null,
+    "inst": "Ready to play!",
+    "inst_md": "Ready to play!",
+    "genres": [
+      "action",
+      "adventure",
+      "retro"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "godot_4.5.squashfs",
+      "weston_pkg_0.2.squashfs"
+    ],
+    "store": [
+      {
+        "name": "itch.io",
+        "gameurl": "https://billwoo.itch.io/rise-of-the-penguins-gb",
+        "developerurl": "https://billwoo.itch.io"
+      },
+      {
+        "name": "Steam",
+        "gameurl": "https://store.steampowered.com/app/3404520/Rise_of_the_Penguins_GB",
+        "developerurl": "https://store.steampowered.com/curator/45549131"
+      }
+    ],
+    "availability": "free",
+    "reqs": [],
+    "arch": [],
+    "min_glibc": ""
+  }
+}
