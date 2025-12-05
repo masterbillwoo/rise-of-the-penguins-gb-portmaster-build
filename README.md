@@ -1,20 +1,25 @@
 Rise of the Penguins GB - PortMaster Port
 ==========================================
 
+A retro penguin platformer designed for Gameboy. Perfect for fans of penguins and anyone looking for a moderate challenge in a cold setting!
+
 Game Information:
 -----------------
 Developer: Bill Woo
 Publisher: Pwoo
-Genre: Retro / Action / Adventure
+Genre: Retro / Platformer
 Players: 1
 Runtime: Godot 4.5
 
-Installation:
--------------
-Place the game's .pck file in the riseofthepenguinsgb/gamedata/ folder as riseofthepenguinsgb.pck
+This port comes ready to play - no additional files needed!
 
-[itch.io page](https://billwoo.itch.io/rise-of-the-penguins-gb)
-[steam page](https://store.steampowered.com/app/XXXXXXX/Rise_of_the_Penguins_GB/)
+Get the game:
+- [itch.io](https://billwoo.itch.io/rise-of-the-penguins-gb)
+- [Steam](https://store.steampowered.com/app/3404520/Rise_of_the_Penguins_GB/)
+- [Epic Games Store](https://store.epicgames.com/en-US/p/rise-of-the-penguins-gb-e40916)
+- [Microsoft Store](https://apps.microsoft.com/detail/9n27rwtgzsc4)
+- [Newgrounds](https://www.newgrounds.com/portal/view/978420)
+- [Game Jolt](https://gamejolt.com/games/riseofthepenguinsgb/990375)
 
 Controls:
 ---------
@@ -26,7 +31,6 @@ Select: Select/Menu
 
 Features:
 ---------
-- Authentic Game Boy Color aesthetics
-- CRT filter effects
-- Steam integration
+- Authentic Game Boy aesthetics
 - Multiple levels
+- Penguin-powered platforming fun
