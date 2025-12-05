@@ -31,6 +31,8 @@ Select: Select/Menu
 
 Features:
 ---------
-- Authentic Game Boy aesthetics
-- Multiple levels
-- Penguin-powered platforming fun
+- 6 levels with a variety of enemies + 2 extra levels
+- Boss Rush Mode (unlocked after beating all 6 levels)
+- 6 mini bosses, 8 bosses, and a final boss
+- 6 difficulty settings to adjust checkpoints
+- Inspired by Ghost n' Goblins and Mega Man
