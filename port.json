@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "name": "riseofthepenguinsgb.zip",
+  "name": "riseofthepenguinsgb",
   "items": [
     "Rise of the Penguins GB.sh",
     "riseofthepenguinsgb"
@@ -18,7 +18,7 @@
     "genres": [
       "action",
       "adventure",
-      "platformer"
+      "retro"
     ],
     "image": null,
     "rtr": false,
@@ -59,7 +59,7 @@
         "developerurl": "https://gamejolt.com/@billwoo"
       }
     ],
-    "availability": "full",
+    "availability": "free",
     "reqs": [],
     "arch": [],
     "min_glibc": ""
